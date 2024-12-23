@@ -1,0 +1,4 @@
+baseURL = 'http://localhost/'
+languageCode = 'ru'
+title = 'Виды морских черепах.'
+theme = 'ananke'
